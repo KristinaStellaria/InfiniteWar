@@ -1,0 +1,22 @@
+[ {
+  "name" : "diamond_apple",
+  "type" : "item",
+  "subtype" : "food",
+  "engName" : "Diamond apple",
+  "genRecipe" : true,
+  "genModel" : true,
+  "hungerRestores" : 6,
+  "saturation" : 10.0,
+  "isAlwaysEatable" : false
+}, {
+  "name" : "my_block",
+  "type" : "block",
+  "subtype" : "block",
+  "engName" : "",
+  "genRecipe" : true,
+  "genModel" : true,
+  "hardness" : 1.5,
+  "resistance" : 6.0,
+  "requiresTool" : true,
+  "minableTools" : [ ]
+} ]
